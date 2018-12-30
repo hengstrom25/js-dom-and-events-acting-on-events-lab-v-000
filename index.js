@@ -26,3 +26,7 @@ function addNewLiOnClick() {
      input.value = '';
    });
  }
+ 
+ function clearEmployeeListOnLinkClick() {
+   
+ }

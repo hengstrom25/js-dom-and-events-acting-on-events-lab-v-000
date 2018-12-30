@@ -31,6 +31,6 @@ function addNewLiOnClick() {
    let link = document.querySelector('a'); 
    let ul = document.querySelector('ul');
    link.addEventListener('click', function(e) {
-     ul.innerHTML
+     ul.innerHTML = ""
    })
  }

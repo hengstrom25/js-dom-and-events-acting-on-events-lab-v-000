@@ -11,6 +11,6 @@ function retrieveEmployeeInformation() {
 }
 
 function addNewElementAsLi () {
-  
+  let element = document.querySelector 
 }
 

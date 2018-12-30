@@ -17,6 +17,8 @@ function addNewElementAsLi() {
   list.append(element);
 }
 
+let input = document.querySelector('input');
+
 function addNewLiOnClick() {
   
 }

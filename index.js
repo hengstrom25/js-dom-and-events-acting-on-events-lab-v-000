@@ -14,5 +14,5 @@ function addnewElementAsLi() {
   let element = document.createElement('li');
   element.innerHTML = retrieveEmployeeInformation();
   let list = docuemnt.querySelector('.employee-list');
-  return 
+  list.append(element);
 }

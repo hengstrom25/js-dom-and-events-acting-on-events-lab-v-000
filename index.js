@@ -20,5 +20,5 @@ function addNewElementAsLi() {
 }
 
 function addNewLiOnClick() {
-  
+  let document.querySelector
 }

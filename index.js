@@ -17,10 +17,4 @@ function addNewElementAsLi() {
   list.append(element);
 }
 
- function addNewElementAsLi() {
-   let ele = document.createElement('li');
-   ele.innerHTML = retrieveEmployeeInformation();
-   let list = document.querySelector('.employee-list');
-   list.append(ele);
- }
 

@@ -10,10 +10,13 @@ function retrieveEmployeeInformation() {
   return document.querySelector('input').value;
 }
 
-function addNewElementAsLi () {
+function addNewElementAsLi() {
   let element = document.createElement('li');
   element.innerHTML = retrieveEmployeeInformation();
   let list = document.querySelector('.employee-list');
   list.append(element);
 }
 
+function addNewLiOnClick() {
+  
+}

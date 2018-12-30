@@ -28,5 +28,6 @@ function addNewLiOnClick() {
  }
  
  function clearEmployeeListOnLinkClick() {
-   let link = documentQuerySelector
+   let link = documentQuerySelector('a');
+   let
  }

@@ -13,6 +13,6 @@ function retrieveEmployeeInformation() {
 function addNewElementAsLi () {
   let element = document.createElement('li');
   element.innerHTML = retrieveEmployeeInformation();
-  let 
+  let list = document.querySelector
 }
 
